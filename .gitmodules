@@ -1,0 +1,9 @@
+[submodule "Custom_3"]
+	path = Custom_3
+	url = git@github.com:ngTestingSubModules/Custom_3.git
+[submodule "Custom_2"]
+	path = Custom_2
+	url = git@github.com:ngTestingSubModules/Custom_2.git
+[submodule "Custom_1"]
+	path = Custom_1
+	url = git@github.com:ngTestingSubModules/Custom_1.git
